@@ -1,6 +1,6 @@
-# med_care
+# Med Care App
 
-A new Flutter application.
+App to test out the login feature and updation for the Hackchennai hackathon 2020
 
 ## Getting Started
 
